@@ -2,13 +2,11 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tokomine&show_icons=true&theme=transparent&custom_title=GitHub%20Stats" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine" /> </div>
-
-<div align="center">
-Contributed to [xmake][1] and [xmake-repo][2]
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tokomine" /> </div>
+<center>>Contributed to [xmake][1] and [xmake-repo][2]</center>
 
   [1]: https://github.com/xmake-io/xmake/commits?author=tokomine
   [2]: https://github.com/xmake-io/xmake-repo/commits?author=tokomine 
-</div>
 
 <!--
 **tokomine/tokomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
