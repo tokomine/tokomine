@@ -1,5 +1,4 @@
-[![Tokomine's github activity graph](https://activity-graph.herokuapp.com/graph?username=tokomine&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine" /> </div>
 
 
 Contributed to [xmake][1] and [xmake-repo][2]
