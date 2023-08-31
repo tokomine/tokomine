@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine&" alt="tokomine_stats"/>
 </p>
 
-### Skills
+### Languages
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" /> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a>
