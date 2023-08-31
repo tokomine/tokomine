@@ -1,6 +1,6 @@
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tokomine&show_icons=true&theme=transparent&custom_title=GitHubStats" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tokomine&show_icons=true&theme=transparent&custom_title=GitHub%2FStats" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine" /> </div>
 
 
