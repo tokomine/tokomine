@@ -6,10 +6,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine&" alt="tokomine_stats"/>
 </p>
 
-### My Skills
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![C++](https://img.shields.io/badge/C++-%3776AB.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
+### Skills
+<p align="center"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" /> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" /> </a>
+</p>
 
 ### Contributes
 
