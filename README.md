@@ -1,4 +1,9 @@
-### Hi there 👋
+
+Contributed to [xmake][1] and [xmake-repo][2]
+
+  [1]: https://github.com/xmake-io/xmake/commits?author=tokomine
+  [2]: https://github.com/xmake-io/xmake-repo/commits?author=tokomine 
+
 
 <!--
 **tokomine/tokomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
