@@ -13,7 +13,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" /> </a>
 </p>
 
-### Contributes
+### Contributions
 
 [![xmake](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=xmake)](https://github.com/xmake-io/xmake)
 [![xmake-repo](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=xmake-repo)](https://github.com/xmake-io/xmake-repo)
