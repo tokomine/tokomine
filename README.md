@@ -6,8 +6,8 @@
 
 
 Contributed to 
-[![xmake](https://github-readme-stats.vercel.app/api/pin/?username=tokomine&repo=github-readme-stats)](https://github.com/xmake-io/xmake)
-[![xmake-repo](https://github-readme-stats.vercel.app/api/pin/?username=tokomine&repo=github-readme-stats)](https://github.com/xmake-io/xmake-repo)
+[![xmake](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=github-readme-stats)](https://github.com/xmake-io/xmake)
+[![xmake-repo](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=github-readme-stats)](https://github.com/xmake-io/xmake-repo)
 
 <!--
 **tokomine/tokomine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
