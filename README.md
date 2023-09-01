@@ -2,7 +2,7 @@
 # Stats
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tokomine&show_icons=true&custom_title=GitHub%20Stats" alt="tokomine_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokomine&layout=compact" alt="tokomine_stats" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokomine&layout=compact" alt="tokomine_stats" /> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine" alt="tokomine_stats"/>
 </p>
 
