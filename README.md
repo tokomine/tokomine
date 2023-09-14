@@ -6,6 +6,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tokomine" alt="tokomine_stats"/>
 </p>
 
+# Competitive Programming
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/tokomine?theme=light&font=Fjord%20One&ext=heatmap" />
+</p>
+
 
 # Languages
 <p align="center"> 
