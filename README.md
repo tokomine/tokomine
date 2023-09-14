@@ -8,7 +8,7 @@
 
 # Competitive Programming
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/tokomine?theme=light&font=Fjord%20One&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/tokomine?theme=light&font=Fjord%20One&ext=contest" />
 </p>
 
 
