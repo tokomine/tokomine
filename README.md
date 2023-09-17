@@ -20,11 +20,12 @@
 </p>
 
 
+<!--
 # Contributions
 
 [![xmake](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=xmake)](https://github.com/xmake-io/xmake)
 [![xmake-repo](https://github-readme-stats.vercel.app/api/pin/?username=xmake-io&repo=xmake-repo)](https://github.com/xmake-io/xmake-repo)
-
+-->
 
 
 <!--
